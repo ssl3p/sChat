@@ -2,7 +2,7 @@
 
 📦 **Chat FiveM** est disponible en **Français** uniquement !
 
-🗾 **Chat FiveM** marche avec ***tout*** les framework !
+🗾 **Chat FiveM** marche ***unqiuement*** avec ESX !
 
 🔎 **Chat FiveM** c'est un le rework de l'UI d'un chat dans un style plus moderne.
 
